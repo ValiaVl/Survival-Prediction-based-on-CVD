@@ -19,6 +19,10 @@ The dataset used for this project is named "heart_failure_clinical_records_datas
 ## Visualizations
 EDA and visualizations are carried out to understand the data distribution and correlations between features.
 
+![alt text](./visualizations/Histograms.png)
+![alt text](./visualizations/Pairplots.png)
+![alt text](./visualizations/Heatmap.png)
+
 ## Feature Selection
 In the feature selection stage, three methods were applied to the training dataset:
 * LinearSVC
