@@ -35,4 +35,4 @@ Four machine learning algorithms are employed to predict mortality in patients:
 The best hyperparameters for each algorithm separately are selected based on the grid search method (GridSearchCV) in combination with the 10-fold stratified cross-validation method (Stratified K-Fold CrossValidation) from Scikit-Learn.
 
 ## Evaluation
-Accuracy, Presicion, Recall, F1-score, Confusion matrix and Average-Precision scores are used to compare the performance among the algorithms.
+Accuracy, Presicion, Recall, F1-score, Confusion matrix and Average-Precision scores are used to compare the algorithms performance.
